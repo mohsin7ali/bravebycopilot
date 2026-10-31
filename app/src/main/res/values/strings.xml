@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickPrivateBrowser</string>
+    <string name="default_url">https://example.com</string>
+    <string name="search_hint">Search or enter website</string>
+    <string name="shield_on">Shields: ON</string>
+    <string name="shield_off">Shields: OFF</string>
+</resources>
